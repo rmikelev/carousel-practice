@@ -1,8 +1,9 @@
+body {
+    background-color: lightcoral;}
 img {
 width: 600px;
 height: 600px;
-object-fit: fill;
+object-fit: contain;
 padding-top: 3rem;
 }
 
-body {background-color: lightcoral;}
